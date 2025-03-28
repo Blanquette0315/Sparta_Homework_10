@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MyIDPlugin.cpp.obj": [
+			"MyIDPlugin.init.gen.cpp.obj",
+			"MyIDPluginBPLibrary.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"MyIDPlugin.cpp.obj",
+			"MyIDPluginBPLibrary.cpp.obj"
+		]
+	}
+}

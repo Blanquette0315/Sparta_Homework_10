@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyIDPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tjfwn\Desktop\Sparta_Homework_10\MyIDPlugin\HostProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\tjfwn\Desktop\Sparta_Homework_10\MyIDPlugin\HostProject\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\Module.MyIDPlugin.cpp.obj"
+"C:\Users\tjfwn\Desktop\Sparta_Homework_10\MyIDPlugin\HostProject\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPlugin.cpp.obj"
+"C:\Users\tjfwn\Desktop\Sparta_Homework_10\MyIDPlugin\HostProject\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPluginBPLibrary.cpp.obj"
+"C:\Users\tjfwn\Desktop\Sparta_Homework_10\MyIDPlugin\HostProject\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\Default.rc2.res"
+/OUT:"C:\Users\tjfwn\Desktop\Sparta_Homework_10\MyIDPlugin\HostProject\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\UnrealEditor-MyIDPlugin.lib"
